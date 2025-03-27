@@ -1,0 +1,7 @@
+# Ignore all contents in the input folder
+/input/
+
+# Ignore all contents in the output folder
+/output/
+
+/report/
